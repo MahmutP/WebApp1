@@ -1,0 +1,1 @@
+print("Paşa'dan selamlar")
