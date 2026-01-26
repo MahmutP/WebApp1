@@ -45,8 +45,8 @@ To view the project locally on your machine:
 
 Thanks to all the amazing people who have contributed to this project:
 
--   **Muhammed** (`Muhammed.html`)
 -   **Pasha** (`Pasha.html`, `Pasha.py`)
+-   **Muhammed** (`Muhammed.html`)
 -   **Bezanur** (`bezanur.html`)
 -   **Elif** (`elif.html`)
 -   **Eren** (`eren.html`)
