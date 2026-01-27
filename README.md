@@ -87,8 +87,8 @@ Projeyi kendi bilgisayarınızda görüntülemek için:
 
 Bu projeye emek veren herkese teşekkürler:
 
--   **Muhammed** (`Muhammed.html`)
 -   **Paşa** (`Pasha.html`, `Pasha.py`)
+-   **Muhammed** (`Muhammed.html`)
 -   **Bezanur** (`bezanur.html`)
 -   **Elif** (`elif.html`)
 -   **Eren** (`eren.html`)
